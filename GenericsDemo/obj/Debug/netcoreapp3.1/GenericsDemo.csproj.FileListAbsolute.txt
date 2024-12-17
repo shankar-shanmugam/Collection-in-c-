@@ -11,3 +11,4 @@ F:\c#practice\Collection in c#\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo
 F:\c#practice\Collection in c#\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.dll
 F:\c#practice\Collection in c#\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.pdb
 F:\c#practice\Collection in c#\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.genruntimeconfig.cache
+F:\c#practice\Collection in c#\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.sourcelink.json

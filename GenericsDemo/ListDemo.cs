@@ -5,7 +5,7 @@ namespace GenericsDemo
 {
     internal class ListDemo
     {
-        static void Main(string[] args)
+        static void ListDemoExample()
         {
             List<char> list = new List<char>();
             // using add method

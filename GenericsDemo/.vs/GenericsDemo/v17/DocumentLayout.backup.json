@@ -3,13 +3,37 @@
   "WorkspaceRootPath": "F:\\c#practice\\Collection in c#\\GenericsDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|f:\\c#practice\\collection in c#\\genericsdemo\\queuedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|solutionrelative:queuedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|f:\\c#practice\\collection in c#\\genericsdemo\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|solutionrelative:mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEB13243-E42B-4779-B098-D2C30A74AACC}|..\\NonGenericDemo\\NonGenericDemo.csproj|f:\\c#practice\\collection in c#\\nongenericdemo\\queuedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEB13243-E42B-4779-B098-D2C30A74AACC}|..\\NonGenericDemo\\NonGenericDemo.csproj|f:\\c#practice\\collection in c#\\nongenericdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|f:\\c#practice\\collection in c#\\genericsdemo\\stackdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|solutionrelative:stackdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEB13243-E42B-4779-B098-D2C30A74AACC}|..\\NonGenericDemo\\NonGenericDemo.csproj|f:\\c#practice\\collection in c#\\nongenericdemo\\stackdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|f:\\c#practice\\collection in c#\\genericsdemo\\sortedsetdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|solutionrelative:sortedsetdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|f:\\c#practice\\collection in c#\\genericsdemo\\dictionarydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|solutionrelative:dictionarydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|f:\\c#practice\\collection in c#\\genericsdemo\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|solutionrelative:listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB13243-E42B-4779-B098-D2C30A74AACC}|..\\NonGenericDemo\\NonGenericDemo.csproj|f:\\c#practice\\collection in c#\\nongenericdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEB13243-E42B-4779-B098-D2C30A74AACC}|..\\NonGenericDemo\\NonGenericDemo.csproj|f:\\c#practice\\collection in c#\\nongenericdemo\\sortedsetdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -19,10 +43,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEB13243-E42B-4779-B098-D2C30A74AACC}|..\\NonGenericDemo\\NonGenericDemo.csproj|f:\\c#practice\\collection in c#\\nongenericdemo\\arraylistdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|f:\\c#practice\\collection in c#\\genericsdemo\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|solutionrelative:listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22139CE0-B012-4844-8872-764588427190}|GenericsDemo.csproj|f:\\c#practice\\collection in c#\\genericsdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,31 +66,96 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QueueDemo.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\GenericsDemo\\QueueDemo.cs",
+              "RelativeDocumentMoniker": "QueueDemo.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\GenericsDemo\\QueueDemo.cs*",
+              "RelativeToolTip": "QueueDemo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:40:19.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StackDemo.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\GenericsDemo\\StackDemo.cs",
+              "RelativeDocumentMoniker": "StackDemo.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\GenericsDemo\\StackDemo.cs",
+              "RelativeToolTip": "StackDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:36:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortedSetDemo.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\GenericsDemo\\SortedSetDemo.cs",
+              "RelativeDocumentMoniker": "SortedSetDemo.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\GenericsDemo\\SortedSetDemo.cs",
+              "RelativeToolTip": "SortedSetDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:32:55.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DictionaryDemo.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\GenericsDemo\\DictionaryDemo.cs",
+              "RelativeDocumentMoniker": "DictionaryDemo.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\GenericsDemo\\DictionaryDemo.cs",
+              "RelativeToolTip": "DictionaryDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:26:05.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\GenericsDemo\\MainClass.cs",
+              "RelativeDocumentMoniker": "MainClass.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\GenericsDemo\\MainClass.cs",
+              "RelativeToolTip": "MainClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:25:13.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueDemo.cs",
               "DocumentMoniker": "F:\\c#practice\\Collection in c#\\NonGenericDemo\\QueueDemo.cs",
               "RelativeDocumentMoniker": "..\\NonGenericDemo\\QueueDemo.cs",
-              "ToolTip": "F:\\c#practice\\Collection in c#\\NonGenericDemo\\QueueDemo.cs*",
-              "RelativeToolTip": "..\\NonGenericDemo\\QueueDemo.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\NonGenericDemo\\QueueDemo.cs",
+              "RelativeToolTip": "..\\NonGenericDemo\\QueueDemo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T07:31:47.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StackDemo.cs",
               "DocumentMoniker": "F:\\c#practice\\Collection in c#\\NonGenericDemo\\StackDemo.cs",
               "RelativeDocumentMoniker": "..\\NonGenericDemo\\StackDemo.cs",
               "ToolTip": "F:\\c#practice\\Collection in c#\\NonGenericDemo\\StackDemo.cs",
               "RelativeToolTip": "..\\NonGenericDemo\\StackDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T07:26:10.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "SortedSetDemo.cs",
               "DocumentMoniker": "F:\\c#practice\\Collection in c#\\NonGenericDemo\\SortedSetDemo.cs",
               "RelativeDocumentMoniker": "..\\NonGenericDemo\\SortedSetDemo.cs",
@@ -78,12 +163,11 @@
               "RelativeToolTip": "..\\NonGenericDemo\\SortedSetDemo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:20:56.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T07:20:56.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "HashTableDemo.cs",
               "DocumentMoniker": "F:\\c#practice\\Collection in c#\\NonGenericDemo\\HashTableDemo.cs",
               "RelativeDocumentMoniker": "..\\NonGenericDemo\\HashTableDemo.cs",
@@ -91,12 +175,11 @@
               "RelativeToolTip": "..\\NonGenericDemo\\HashTableDemo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:15:49.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T07:15:49.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "ArrayListDemo.cs",
               "DocumentMoniker": "F:\\c#practice\\Collection in c#\\NonGenericDemo\\ArrayListDemo.cs",
               "RelativeDocumentMoniker": "..\\NonGenericDemo\\ArrayListDemo.cs",
@@ -104,12 +187,11 @@
               "RelativeToolTip": "..\\NonGenericDemo\\ArrayListDemo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:10:48.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T07:10:48.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\c#practice\\Collection in c#\\NonGenericDemo\\Program.cs",
               "RelativeDocumentMoniker": "..\\NonGenericDemo\\Program.cs",
@@ -117,12 +199,11 @@
               "RelativeToolTip": "..\\NonGenericDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:10:03.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T07:10:03.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Student.cs",
               "DocumentMoniker": "F:\\c#practice\\Collection in c#\\GenericsDemo\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
@@ -134,13 +215,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ListDemo.cs",
               "DocumentMoniker": "F:\\c#practice\\Collection in c#\\GenericsDemo\\ListDemo.cs",
               "RelativeDocumentMoniker": "ListDemo.cs",
               "ToolTip": "F:\\c#practice\\Collection in c#\\GenericsDemo\\ListDemo.cs",
               "RelativeToolTip": "ListDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T05:37:06.64Z",
               "EditorCaption": ""
