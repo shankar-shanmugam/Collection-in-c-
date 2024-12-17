@@ -1,0 +1,14 @@
+F:\c#practice\Collection in c#\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.exe
+F:\c#practice\Collection in c#\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.deps.json
+F:\c#practice\Collection in c#\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.runtimeconfig.json
+F:\c#practice\Collection in c#\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.runtimeconfig.dev.json
+F:\c#practice\Collection in c#\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.dll
+F:\c#practice\Collection in c#\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.pdb
+F:\c#practice\Collection in c#\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#practice\Collection in c#\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.AssemblyInfoInputs.cache
+F:\c#practice\Collection in c#\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.AssemblyInfo.cs
+F:\c#practice\Collection in c#\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.csproj.CoreCompileInputs.cache
+F:\c#practice\Collection in c#\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.sourcelink.json
+F:\c#practice\Collection in c#\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.dll
+F:\c#practice\Collection in c#\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.pdb
+F:\c#practice\Collection in c#\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.genruntimeconfig.cache
